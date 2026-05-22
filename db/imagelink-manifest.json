@@ -1,8 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "users": 3,
   "posts": 3,
   "size": 143360,
-  "updatedAt": "2026-05-22T20:57:18.997Z",
+  "mtime": 1779484563810.5479,
+  "updatedAt": "2026-05-22T21:16:04.187Z",
   "host": "railway"
 }
